@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/SaiBalaji22/https://githubcom/SaiBalaji22.svg)](http://hits.dwyl.com/SaiBalaji22/https://githubcom/SaiBalaji22)
+![](https://komarev.com/ghpvc/?username=your-SaiBalaji22)
 <!--
 **SaiBalaji22/SaiBalaji22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
